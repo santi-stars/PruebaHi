@@ -28,6 +28,8 @@ namespace Pruebas
                 ".vs",
                 "bin",
                 "obj",
+                "ArchivosTXT",
+                "Migrations",
             };
             if (!listaNegra.Contains(nombreDirectorio))
                 if (indentLevel > 0)
